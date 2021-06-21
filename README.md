@@ -3,6 +3,7 @@ This many people think that I am interresting ![Visitors](https://komarev.com/gh
 
 My name is Emil.
 I am currently studying Computer Science. 📚
+
 I love creating new and fun things which could potentiely be world changing and making a real difference for real people 🧙
 
 - 👯 I’m looking to collaborate on open-source projects used by fintech.
