@@ -2,7 +2,7 @@
 This many people think that I am interresting ![Visitors](https://komarev.com/ghpvc/?username=eelkjaer)
 
 My name is Emil.
-I am currently studying Computer Science. 📚
+I am holding a AP in Computer Science, but working as a Product Owner.
 
 I love creating new and fun things which could potentiely be world changing and making a real difference for real people 🧙
 
